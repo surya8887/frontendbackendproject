@@ -1,0 +1,18 @@
+{
+  "name": "setupbackendfrontend",
+  "version": "1.0.0",
+  "description": "IN this Project we create site using MERN concept",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "MERN"
+  ],
+  "author": "Surya",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
